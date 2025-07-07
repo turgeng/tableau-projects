@@ -1,0 +1,51 @@
+---
+title: "tableau-projects"
+author: "Gonca Türgen"
+output: html_document
+---
+
+# Tableau Dashboards – Preview Collection
+
+This folder includes links and brief descriptions of interactive dashboards I built using Tableau, focusing on global indicators like CO2 emissions and world happiness.
+
+Each dashboard is published on Tableau Public and explores real-world datasets with KPIs, filters, and visual insights.
+
+---
+
+## CO₂ Emissions by Region (1960–2012)
+
+**Goal:** Show the distribution and growth of CO₂ emissions across global regions over time.  
+**Features:** Line charts by region, timeline slider, emission totals and trends  
+[View Dashboard](https://public.tableau.com/app/profile/g.turgen/viz/CO2emissionsbyregion_1960-2012/Sheet1)
+
+---
+
+## CO₂ Emissions per Capita by Country (2000–2011)
+
+**Goal:** Compare countries' per capita CO₂ emissions to reveal global inequality and change over time.  
+**Features:** Bar chart by country, filters for year and region, sorted view  
+[View Dashboard](https://public.tableau.com/app/profile/g.turgen/viz/CO2emissionspercapitaforeachcountryfrom2000-2011_17465458499900/Sheet3)
+
+---
+
+## World Happiness – Map & Score Breakdown
+
+**Goal:** Explore global happiness scores by country using spatial and factor-based views.  
+**Features:** Choropleth map, filterable indicators (GDP, support, freedom), hover tooltips  
+[View Dashboard](https://public.tableau.com/app/profile/g.turgen/viz/Worldhappinessdatademo_17465381135300/Dashboard2)
+
+---
+
+## Global CO₂ Emissions Overview
+
+**Goal:** Provide a compact snapshot of CO₂ emissions by country and year.  
+**Features:** Interactive table, bar chart, year filter  
+[View Dashboard](https://public.tableau.com/app/profile/g.turgen/viz/GlobalCO2emissionsdemo_17464490240230/Sheet1)
+
+---
+
+## World Happiness Score Demo
+
+**Goal:** Highlight the differences in happiness metrics using a custom scoring layout.  
+**Features:** Country-level breakdown, score bars by variable, labeled filters  
+[View Dashboard](https://public.tableau.com/app/profile/g.turgen/viz/WorldHappinessDemo_17464469365830/Sheet2)
